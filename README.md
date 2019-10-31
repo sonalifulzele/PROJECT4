@@ -6,16 +6,18 @@
 <p>The idea for the project came from one of the BIG10 Universities which is looking into purchasing a more sophisticated BI platform. The University is currently using Tableau as their go to BI tool, but is open to other options. Our Team decided to utilize the knowledge learned during a 6 month program in order to research & explore at least 3 different BI tools. Two of the BI tools are leaders in the BI market. The other BI application is not so popular.</p>
 
 <h3>Tools Used</h3>
-1.Excel Macros 
-2.JavaScript 
-3.Jupyter Notebook (*20K rows limit) 
-4.Pandas 
-5.Python 
-6.Postgres 
-7.Dundas BI 
-8.Microsoft Power BI 
-9.Tableau 
-10.Zepl (*Maximum file size is 20MB)
+<ol>
+  <li>Excel Macros </li>
+  <li>JavaScript </li>
+  <li>Jupyter Notebook (*20K rows limit) </li>
+<li>Pandas</li> 
+<li>Python </li>
+<li>Postgres </li>
+<li>Dundas BI </li>
+<li>Microsoft Power BI </li>
+<li>Tableau </li>
+<li>Zepl (*Maximum file size is 20MB)</li>
+</ol>
 
 <h3>Conclusion</h3>
 <ul>
